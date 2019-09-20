@@ -1,4 +1,19 @@
-
+/***
+ * Grading Comments:
+ *  Excellent job.  The use of print instead of println and
+ *  in method  there() was exactly the innovation we're 
+ *  looking for in reducing the text.
+ *  Compiles and runs: 15/15
+ *  Desired output:  6/6
+ *  Consistency:  2/2  
+ *  Economy:  2/2.  You could take it a step further by 
+ *   nesting your methods - calling methods from methods,
+ *   eg. a method called 'addSpider()' that calls the
+ *   other methods that add the spider to the song - 
+ *   and perhaps the main function could do with some
+ *   comments, or at least spacing to break of the verses.
+ *   25/25
+ */ 
 public class OldLady {
 
 	public static void main(String[] args) {
